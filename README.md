@@ -37,7 +37,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.gifer.com/YAg6.gif"/>
+  <img height="200" src="kotik.gif"/>
 </div>
 
 ###
