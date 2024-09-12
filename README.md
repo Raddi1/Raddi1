@@ -37,7 +37,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://github.com/Raddi1/Raddi1/blob/b9000bd71751c60d8dff236b571a0098808c05a5/kotik.gif"/>
+  <img height="200" src="https://github.com/Raddi1/Raddi1/blob/main/kotik.gif?raw=true"/>
 </div>
 
 ###
