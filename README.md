@@ -24,8 +24,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
